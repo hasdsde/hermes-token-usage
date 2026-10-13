@@ -1,0 +1,5 @@
+name: token-usage
+version: 0.1.0
+description: 桌面「用量」页：按 provider/model 统计 state.db 中的 token 用量（输入/输出/缓存命中/总计），支持时间范围筛选
+author: tch
+kind: standalone
