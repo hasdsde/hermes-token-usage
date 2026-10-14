@@ -4,6 +4,10 @@
 
 ![特性](https://img.shields.io/badge/hermes-desktop%20plugin-blue)
 
+## 界面预览
+
+![用量页面预览](usage-preview.png)
+
 ## 功能
 
 - 侧边栏「消息平台」下方新增 **用量** 入口
